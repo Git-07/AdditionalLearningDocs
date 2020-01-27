@@ -1,0 +1,6 @@
+1)Describe each projects undertaken and your role in that.
+2)Descibe the Automation testing framework
+3)Have you worked in any End to End testing, Integration testing.
+4)Testing methodologies used in your testing
+5)Negative testing
+6)any experience in API testing.

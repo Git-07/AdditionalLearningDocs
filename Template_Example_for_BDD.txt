@@ -1,0 +1,5 @@
+1)In order to (allow a person to enter the room post swipe in)
+As an Employee of the company
+I want to enter into the room by swiping in the swipe machine
+
+=========================================

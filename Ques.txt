@@ -1,0 +1,17 @@
+Can we overload the main method? -> yes
+A Java Constructor returns a value but, what? -> yes, class instance
+Can we create a program without main method? -> yes with static block only
+What are the six ways to use this keyword? -> local variable reference,first statement in constructor
+Why is multiple inheritance not supported in Java?
+Why use aggregation?
+Can we override the static method? -> NO
+What is covariant return type? ->
+What are the three usages of Java super keyword? -> call super class constructor, methods ,
+Why use instance initializer block?
+What is the usage of a blank final variable? -> 
+What is a marker or tagged interface?
+What is runtime polymorphism or dynamic method dispatch? -> (obect to which class has been made)call the method at run time not compile time
+What is the difference between static and dynamic binding? -> 
+How downcasting is possible in Java?
+What is the purpose of a private constructor?
+What is object cloning?
